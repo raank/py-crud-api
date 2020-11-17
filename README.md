@@ -18,4 +18,6 @@ Manually instalation:
 - Upgrade: `docker exec -it crud-backend python run.py db upgrade;`
 - Seed admin first user: `docker exec -it crud-backend python run.py seed;`
 
+Using the Insominia for tests of API with Auth Token and access **Swagger**.
+
 Thanks.
